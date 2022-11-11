@@ -1,7 +1,3 @@
-<!-- <div id="header" align="left">
-  <img src="https://media.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="250"/> 
-</div> -->
-
 <!--
 **ethan-lamwah/ethan-lamwah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -25,14 +21,10 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ethanlamwah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanlamwah/)
-- ⚡ Fun fact: ...
+- :fire: My goal is to be a [.NET developer](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) focus on backend(microservices)
+- 🌱 I’m currently learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
 - :notebook: Checkout my [personal blog](https://www.ethanlam.dev/) and explore my journey
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ethanlamwah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanlamwah/)
 
 ---
 
@@ -61,7 +53,7 @@ Here are some ideas to get you started:
 </details>
 
 <details>
-  <summary><b> :fire: My GitHub Stats </b></summary>
+  <summary><b> :bar_chart: My GitHub Stats </b></summary>
   <br/>
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethan-lamwah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
