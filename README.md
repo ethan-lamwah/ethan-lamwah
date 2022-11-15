@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 
 - :fire: My goal is to be a [.NET developer](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) focus on backend(microservices)
 - 🌱 I’m currently learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
+- :cloud: Preparing for [Azure fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 - :notebook: Checkout my [personal blog](https://www.ethanlam.dev/) and explore my journey
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ethanlamwah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanlamwah/)
 
