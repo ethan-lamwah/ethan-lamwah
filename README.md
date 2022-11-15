@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-- :fire: My goal is to be a [.NET developer](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) focus on backend(microservices)
+- :fire: **Stay motivated & Code consistently**
+- :dart: My goal is to be a [.NET developer](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) focus on backend(microservices)
 - 🌱 I’m currently learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
 - :cloud: Preparing for [Azure fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
 - :notebook: Checkout my [personal blog](https://www.ethanlam.dev/) and explore my journey
