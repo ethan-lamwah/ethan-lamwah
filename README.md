@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ---
 
-### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+### Hi, I'm Ethan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - :fire: **Stay motivated & Code consistently**
 - :dart: My goal is to be a [.NET developer](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) focus on backend(microservices)
@@ -61,5 +61,8 @@ Here are some ideas to get you started:
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethan-lamwah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-lamwah&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+<!-- ![Wwakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ethanlamwah&hide_title=true&hide_border=true&langs_count=5&theme=tokyonight) -->
   
 </details>
