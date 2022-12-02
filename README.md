@@ -22,11 +22,13 @@ Here are some ideas to get you started:
 ### Hi, I'm Ethan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - :fire: **Stay motivated & Code consistently**
-- 🌱 I’m currently learning [Angular](https://angular.io/), [TypeScript](https://www.typescriptlang.org/)
-- :cloud: Preparing for [Azure fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/)
+- 😄 I'm excited my new role focus on data architecture and data pipeline
+- 🌱 I’m currently brushing up SQL and Python
+- :dart: Getting to learn more about data engineering
+- :dart: Preparing for Google Cloud Certification: [Data Engineer](https://cloud.google.com/certification/data-engineer)
+<!-- - :cloud: Preparing for [Azure fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) -->
 - :notebook: Checkout my [personal blog](https://www.ethanlam.dev/) and explore my journey
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ethanlamwah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanlamwah/)
-<!-- - :dart: My goal is to be a [.NET developer](https://github.com/Elfocrash/.NET-Backend-Developer-Roadmap) focus on backend(microservices) -->
 
 ---
 
