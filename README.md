@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 - :fire: **Stay motivated & Code consistently**
 - 😄 I'm excited my new role focus on data architecture and data pipeline
 - 🌱 I’m currently brushing up SQL and Python
-- :dart: Getting to learn more about data engineering
-- :dart: Preparing for Google Cloud Certification: [Data Engineer](https://cloud.google.com/certification/data-engineer)
+- :dart: Learning more about data engineering
+- :thought_balloon: Preparing for Google Cloud Certification: [Data Engineer](https://cloud.google.com/certification/data-engineer)
 <!-- - :cloud: Preparing for [Azure fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) -->
 - :notebook: Checkout my [personal blog](https://www.ethanlam.dev/) and explore my journey
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-ethanlamwah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanlamwah/)
+- 📫 How to reach me: 
+  
+  [![Linkedin Badge](https://img.shields.io/badge/-ethanlamwah-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ethanlamwah/)
 
 ---
 
@@ -60,7 +62,7 @@ Here are some ideas to get you started:
   <summary><b> :bar_chart: My GitHub Stats </b></summary>
   <br/>
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethan-lamwah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+<!--   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethan-lamwah&theme=tokyonight&hide_border=true)](https://git.io/streak-stats) -->
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethan-lamwah&layout=compact&theme=tokyonight&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
   
