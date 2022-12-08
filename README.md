@@ -24,9 +24,8 @@ Here are some ideas to get you started:
 - :fire: **Stay motivated & Code consistently**
 - 😄 I'm excited my new role focus on data architecture and data pipeline
 - 🌱 I’m currently brushing up SQL and Python
-- :dart: Learning more about data engineering
+- :ladder: Learning more about data engineering
 - :thought_balloon: Preparing for Google Cloud Certification: [Data Engineer](https://cloud.google.com/certification/data-engineer)
-<!-- - :cloud: Preparing for [Azure fundamentals AZ-900](https://learn.microsoft.com/en-us/certifications/azure-fundamentals/) -->
 - :notebook: Checkout my [personal blog](https://www.ethanlam.dev/) and explore my journey
 - 📫 How to reach me: 
   
