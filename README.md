@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 ### Hi, I'm Ethan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 - :fire: **Stay motivated & Code consistently**
-- 😄 I'm excited my new role focus on data architecture and data pipeline
-- 🌱 I’m currently brushing up SQL and Python
-- :ladder: Learning more about data engineering
-- :thought_balloon: Preparing for Google Cloud Certification: [Data Engineer](https://cloud.google.com/certification/data-engineer)
+- :ladder: Learning data architecture and data pipeline
+- 🌱 Enhancing SQL and Python
+- :thought_balloon: Preparing for Google Cloud Certification
 - :notebook: Checkout my [personal blog](https://www.ethanlam.dev/) and explore my journey
 - 📫 How to reach me: 
   
